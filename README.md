@@ -1,16 +1,15 @@
 # Notes-Sharing-Web-Application-using-Django-Framework---Anirudh-J-7209-JCTCET
 Notes Sharing Web Application using Django Framework
 Django based music layer
-Django Music Player is a simple web application built with Django that allows users to upload, manage, and play music files.
-GitHub stars Maintenance Website shields.io License
+Django Music Player is a simple web application built with Django that allows users to upload, manage notes 
+
 
 Installation 📦
 To install Django web app, follow these steps:
 1. Clone this repository:
-'https://github.com/BurhanMohammad/Django-MusicPlayer.git'
 
 2. Navigate to the project directory:
-  cd Django-MusicPlayer
+ 
 3 . Create a virtual environment:
   python3 -m venv env
 4. Activate the virtual environment:
@@ -23,18 +22,15 @@ To install Django web app, follow these steps:
 Features 📋
 ⚡️ SignUp and SignIn option.
 ⚡️ Google SignUp and SignIn option.
-⚡️ Play song, view detailed information of song.
-⚡️ Search songs.
-⚡️ Filter songs based on language and singer.
-⚡️ Create new playlist.
-⚡️ Add/Remove songs to/from playlist.
-⚡️ Add/Remove songs to/from favourites.
-⚡️ Scroll through recently played/viewed songs.
-⚡️ Explore songs through your personalized playlist and favourites.
+⚡️ Play song, view detailed information of notes.
+⚡️ Search notes.
+⚡️ Filter notes based on language .
+⚡️ Create new file.
+⚡️ Add/Remove notes by admin.
 ⚡️ User authentication: Users can sign up, log in, and log out.
 
 Contributing 💡
-If you'd like to contribute to Django Music Player, feel free to fork this repository and submit a pull request.
+If you'd like to contribute to Django notes app , feel free to fork this repository and submit a pull request.
 Step 1
 Option 1
 
